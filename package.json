@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/strugee/instagram-backup/issues"
   },
-  "homepage": "https://github.com/strugee/instagram-backup#readme"
+  "homepage": "https://github.com/strugee/instagram-backup#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.2",
+    "optimist": "^0.6.1",
+    "sqlite": "^2.6.0"
+  }
 }
