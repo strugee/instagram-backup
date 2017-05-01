@@ -1,0 +1,24 @@
+{
+  "name": "instagram-backup",
+  "version": "1.0.0",
+  "description": "Take your Instagram profile and shove it into a SQLite database, backup-style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strugee/instagram-backup.git"
+  },
+  "keywords": [
+    "instagram",
+    "backup",
+    "scrape"
+  ],
+  "author": "Alex Jordan <alex@strugee.net>",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/strugee/instagram-backup/issues"
+  },
+  "homepage": "https://github.com/strugee/instagram-backup#readme"
+}
