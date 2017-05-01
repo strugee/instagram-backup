@@ -23,7 +23,7 @@
   "homepage": "https://github.com/strugee/instagram-backup#readme",
   "dependencies": {
     "htmlparser2": "^3.9.2",
-    "optimist": "^0.6.1",
-    "sqlite": "^2.6.0"
+    "sqlite3": "^3.1.8",
+    "yargs": "^7.1.0"
   }
 }
