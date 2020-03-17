@@ -24,6 +24,6 @@
   "dependencies": {
     "htmlparser2": "^3.9.2",
     "sqlite3": "^3.1.8",
-    "yargs": "^7.1.0"
+    "yargs": "^13.1.0"
   }
 }
